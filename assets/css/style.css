@@ -150,6 +150,12 @@ body{
   background-color: var(--white-alpha-8);
   border-radius: var(--radius-pill);
 }
+
+::-webkit-scrollbar-thumb{
+  background-color: var(--white-alpha-8);
+  border-radius: var(--radius-pill);
+}
+
 /*-----------------------------------*\
   #RESET
 \*-----------------------------------*/
